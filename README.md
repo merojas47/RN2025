@@ -1,6 +1,5 @@
-
-### 2. Med-Surg Question
-disulfiram adverse effect when drinking alcohol?
-
+### 1. pharmacology question
+what is the adverse effect of xanax ?
 <details>
-<summary><b>Click to reveal the answer</b></summary>
+<sumary><b>click to reveal the anwer<?b><?sumary>
+
